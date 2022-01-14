@@ -1,0 +1,135 @@
+body {
+    background-color: #a9a087;
+}
+.muendo {
+    color: #fb092d;
+    font-size: 30px;
+    font-family: "Baskerville Old Face";
+    text-align: center;
+}
+.btn {
+    background-color: #1b39fb;
+    width: 100px;
+    height: 50px;
+    border: unset;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #91fb63;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.btn:hover  {
+    background-color: #f9fbe2;
+    color: rgba(32,32,7,0.98);
+}
+h2 {
+    color: #1621fb;
+    font-size: 30px;
+    font-family: "Century Schoolbook";
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+.register {
+    text-align: center;
+    text-decoration: underline;
+    color: #a10d5c;
+    font-weight: bold;
+}
+.registration_details {
+    text-align: left;
+    color: #024377;
+    font-size: 15px;
+    border: unset;
+    border-radius: 8px;
+    width: 40%;
+    margin: auto;
+}
+.form_style {
+    width: 100%;
+    border-radius: 8px;
+    border: unset;
+    height: 30px;
+    padding-left: 16px;
+    color: #fb1872;
+    font-weight: bold;
+}
+
+.btn_submit {
+    width: 50%;
+    height: 40px;
+    border-radius: 16px;
+    border: unset;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 20px;
+    background-color: #5737fb;
+    color: #ffffde;
+}
+.login_btn {
+    width: 50%;
+    height: 40px;
+    border-radius: 8px;
+    border:unset;
+    background-color: #8c8c2d;
+    color: #f5fbf7;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 20px;
+}
+.login_form {
+    width: 80%;
+    border-radius: 8px;
+    border: unset;
+    height: 30px;
+    padding-left: 16px;
+    color: #fb1872;
+    font-weight: bold;
+}
+.login_details {
+    text-align: center;
+    color: #4cb3fb;
+    font-size: 20px;
+    border: unset;
+    border-radius: 8px;
+    width: 40%;
+    margin: auto;
+}
+.login_header {
+    width: 100%;
+    text-align: center;
+    color: #fb1872;
+    font-weight: bold;
+    text-decoration: underline;
+}
+table {
+    width: 100%;
+    height: 50%;
+}
+img {
+    height: auto;
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
+}
+.about_us_header    {
+    text-align: center;
+    color: #5a49ff;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.about_us_paragraph {
+    color: #54094e;
+    font-family: "Britannic Bold";
+    font-size: 25px;
+    padding-left: 10px;
+    text-decoration: unset;
+}
+.home_table {
+    width: 100%;
+    height: 50%;
+}
